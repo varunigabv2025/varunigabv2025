@@ -40,46 +40,47 @@ workflows.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp" />
-</p>
-
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`AI APIs` • `LLM Applications` • `Prompt Engineering`
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" />
 </p>
 
 ---
 
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+**Also working with:** REST APIs • WebSockets
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
+</p>
+
+---
+
+### 🤖 AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Focus:** AI APIs • LLM Applications • Prompt Engineering
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 ## 🚀 Featured Projects
 
 ### 🤖 ResumeIQ
