@@ -141,28 +141,3 @@ Real-World Problem Solving
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects, hackathons, and ideas.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/varuniga-b-v-042569377/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:varuniga.bv2025@vitstudent.ac.in">
-<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/varunigabv2025">
-<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-⭐ Feel free to explore my repositories and connect with me!
-
-</div>
