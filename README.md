@@ -129,16 +129,16 @@ interactions and handle support workflows intelligently.
 
 ## 💡 What I'm Interested In
 
-```text
-Artificial Intelligence
-        ↓
-AI-powered Applications
-        ↓
-Full-Stack Development
-        ↓
-Developer Tools
-        ↓
+Artificial Intelligence  
+↓  
+AI-powered Applications  
+↓  
+Full-Stack Development  
+↓  
+Developer Tools  
+↓  
 Real-World Problem Solving
+
 ---
 
 ## 🤝 Let's Connect
@@ -150,15 +150,15 @@ I'm always open to collaborating on interesting projects, hackathons, and ideas.
 <br/>
 
 <a href="https://www.linkedin.com/in/varuniga-b-v-042569377/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:varuniga.bv2025@vitstudent.ac.in">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/varunigabv2025">
-  <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
