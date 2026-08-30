@@ -164,10 +164,8 @@ A dashboard for managing and visualizing competitive programming activity.
 
 ## 🏆 Achievements
 
-- 💯 200+ GitHub contributions
-- 📦 Built and maintained multiple projects
-- 🔀 Contributed to open-source projects
-- 🎯 Participating in hackathons and technical events
+- 200+ GitHub contributions
+- 📦 Built and maintained multiple projects events
 - 🚀 Building real-world software projects
 
 ---
